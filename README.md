@@ -68,10 +68,6 @@ scikit-learn
 
   7. Model checkpoints will be saved locally.
 
-## Contributors
-
-Cecília Santos (MSc student in Robotics and Intelligent Systems)
-
 ## References
 
 Dataset from Ningning Yu, *"DroneRFb-Spectra: A RF spectrogram dataset for drone recognition"*, IEEE Dataport, May 23, 2024, [doi:10.21227/wv7h-sv64](https://doi.org/10.21227/wv7h-sv64)
