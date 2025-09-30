@@ -52,22 +52,6 @@ torch
 scikit-learn
 ```
 
-## Usage
-
-  1. Adjust root_dir to point to your local dataset.
-
-  2. Run all notebook cells sequentially to:
-
-  3. Load and preprocess data
-
-  4. Perform semi-supervised labeling
-
-  5. Train CNN model
-
-  6. Evaluate metrics
-
-  7. Model checkpoints will be saved locally.
-
 ## References
 
 Dataset from Ningning Yu, *"DroneRFb-Spectra: A RF spectrogram dataset for drone recognition"*, IEEE Dataport, May 23, 2024, [doi:10.21227/wv7h-sv64](https://doi.org/10.21227/wv7h-sv64)
